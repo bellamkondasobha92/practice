@@ -1,0 +1,14 @@
+.col{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: red;
+}
+.sho{
+    display: flex;
+    justify-content: space-around;
+    background-color: green;
+    align-items: center;
+}
+
+
